@@ -1,2 +1,5 @@
 # Intelligent-Adaptive-Automatic-Control-Systems
-Intelligent and Adaptive Automatic Control Systems theory and  for Aircraft control.
+
+In this project we focus on :
+ - Intelligent and Adaptive Automatic Control Systems with non-Linear Disturbance Theory.
+ - Design of APEMA Controllers using Matlab.
